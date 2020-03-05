@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@monorepo/common": "1.0.0",
+    "@monorepo/common": "^1.0.1",
     "graphql-yoga": "^1.18.3"
   }
 }
