@@ -1,5 +1,5 @@
 {
-  "name": "app1",
+  "name": "@monorepo/app1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "echo testing CRA app1 with version: $npm_package_version",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
