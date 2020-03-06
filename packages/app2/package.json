@@ -1,15 +1,15 @@
 {
   "name": "@monorepo/app2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "dependencies": {
+    "@monorepo/common": "1.0.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
-    "@monorepo/common": "1.0.1"
+    "react-scripts": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
